@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/41365307/157009004-c860e8d7-6ea5-4572-bfb2-873a3c575060.png" alt="my banner">
 </p>
 
-![](https://komarev.com/ghpvc/?username=sakshamgurung&style=flat-square&label=PROFILE+VIEWS)
+<!-- ![](https://komarev.com/ghpvc/?username=sakshamgurung&style=flat-square&label=PROFILE+VIEWS) -->
 # 👋 Hello there!
 I’m Sakchhyam Gurung. I am a developer from Nepal🇳🇵.
 
